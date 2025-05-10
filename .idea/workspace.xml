@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="151877de-55a1-4286-8f34-e8b8260e0304" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursion/count-down.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/recursion/equalOccurances.py" afterDir="false" />
+    <list default="true" id="151877de-55a1-4286-8f34-e8b8260e0304" name="Changes" comment="equal occurances problem">
+      <change afterPath="$PROJECT_DIR$/recursion/sumrange.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/strings/romantoint.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +24,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "sri2307"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/sri2307/python-practice.git",
+    "accountId": "8e24aa92-1042-4551-8fb7-d7ce07e7db1d"
+  }
+}]]></component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="CurrentFile" />
   </component>
@@ -44,6 +52,8 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.count-down.executor": "Run",
     "Python.equalOccurances.executor": "Run",
+    "Python.romantoint.executor": "Run",
+    "Python.sumrange.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "master",
@@ -56,6 +66,12 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\marra\PycharmProjects\PythonProject\strings" />
+      <recent name="C:\Users\marra\PycharmProjects\PythonProject" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -71,15 +87,56 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1746855196336</updated>
-      <workItem from="1746855197602" duration="2770000" />
+      <workItem from="1746855197602" duration="5673000" />
     </task>
+    <task id="LOCAL-00001" summary="initial setup">
+      <option name="closed" value="true" />
+      <created>1746858309614</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1746858309614</updated>
+    </task>
+    <task id="LOCAL-00002" summary="count down problem">
+      <option name="closed" value="true" />
+      <created>1746858321446</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1746858321446</updated>
+    </task>
+    <task id="LOCAL-00003" summary="equal occurances problem">
+      <option name="closed" value="true" />
+      <created>1746858417600</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1746858417600</updated>
+    </task>
+    <task id="LOCAL-00004" summary="equal occurances problem">
+      <option name="closed" value="true" />
+      <created>1746858552095</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1746858552095</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial setup" />
+    <MESSAGE value="count down problem" />
+    <MESSAGE value="equal occurances problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="equal occurances problem" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/PythonProject$sumrange.coverage" NAME="sumrange Coverage Results" MODIFIED="1746861129686" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/recursion" />
     <SUITE FILE_PATH="coverage/PythonProject$count_down.coverage" NAME="count-down Coverage Results" MODIFIED="1746855502227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/recursion" />
     <SUITE FILE_PATH="coverage/PythonProject$equalOccurances.coverage" NAME="equalOccurances Coverage Results" MODIFIED="1746858100709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/recursion" />
+    <SUITE FILE_PATH="coverage/PythonProject$romantoint.coverage" NAME="romantoint Coverage Results" MODIFIED="1746860166234" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/strings" />
   </component>
 </project>
