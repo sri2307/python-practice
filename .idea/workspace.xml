@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="151877de-55a1-4286-8f34-e8b8260e0304" name="Changes" comment="power of given number and exponent recursion problem">
-      <change afterPath="$PROJECT_DIR$/recursion/productofarray.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="151877de-55a1-4286-8f34-e8b8260e0304" name="Changes" comment="product of array recursion problem">
+      <change beforePath="$PROJECT_DIR$/recursion/productofarray.py" beforeDir="false" afterPath="$PROJECT_DIR$/recursion/productofarray.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +90,7 @@
       <updated>1746855196336</updated>
       <workItem from="1746855197602" duration="5942000" />
       <workItem from="1746878508093" duration="833000" />
-      <workItem from="1747112062618" duration="216000" />
+      <workItem from="1747112062618" duration="291000" />
     </task>
     <task id="LOCAL-00001" summary="initial setup">
       <option name="closed" value="true" />
@@ -149,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746878879429</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="product of array recursion problem">
+      <option name="closed" value="true" />
+      <created>1747112304358</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1747112304358</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,7 +169,8 @@
     <MESSAGE value="roman to integer" />
     <MESSAGE value="sumrange recursion problem" />
     <MESSAGE value="power of given number and exponent recursion problem" />
-    <option name="LAST_COMMIT_MESSAGE" value="power of given number and exponent recursion problem" />
+    <MESSAGE value="product of array recursion problem" />
+    <option name="LAST_COMMIT_MESSAGE" value="product of array recursion problem" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/PythonProject$power.coverage" NAME="power Coverage Results" MODIFIED="1746878689802" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/recursion" />
